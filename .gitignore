@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# 未納入版本控制的策略實驗檔案
+momentum_hmm_backtest.py
+pairs_trading.py
+random_forest_backtest.py
+smc_backtest.py
+smc_hmm_backtest.py
+smc_ml_backtest.py
+spy_options_iv_rv.py
